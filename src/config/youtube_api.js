@@ -1,0 +1,3 @@
+const YOUTUBE_API_KEY = 'AIzaSyCAYk0IGlbV9fBKpikllM1Y0ASTg8K5324';
+
+export default YOUTUBE_API_KEY;
